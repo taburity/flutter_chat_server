@@ -1,0 +1,5 @@
+Implementação do servidor Node do projeto FlutterChat para aulas da disciplina de Desenvolvimento de Aplicações Móveis (DAM) do curso de BCC da UFAPE.
+Trata-se de um aplicativo de chat em que os usuários se comunicam em tempo real, em salas.
+Os usuários podem criar salas, verificar as salas existentes, verificar os usuários existentes e se registrar com nome e senha.
+Salas podem ser públicas ou privadas. Salas privadas só podem ser acessadas por usuários convidados.
+Quem cria a sala torna-se administrador, podendo expulsar usuários e fechar a sala.
