@@ -5,5 +5,7 @@ Salas podem ser públicas ou privadas. Salas privadas só podem ser acessadas po
 Quem cria a sala torna-se administrador, podendo expulsar usuários e fechar a sala.
 
 Para iniciar o servidor, basta a partir do diretório local do projeto, executar:
+
 npm install
+
 npm start
