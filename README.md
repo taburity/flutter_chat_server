@@ -3,3 +3,7 @@ Trata-se de um aplicativo de chat em que os usuários se comunicam em tempo real
 Os usuários podem criar salas, verificar as salas existentes, verificar os usuários existentes e se registrar com nome e senha.
 Salas podem ser públicas ou privadas. Salas privadas só podem ser acessadas por usuários convidados.
 Quem cria a sala torna-se administrador, podendo expulsar usuários e fechar a sala.
+
+Para iniciar o servidor, basta a partir do diretório local do projeto, executar:
+npm install
+npm start
